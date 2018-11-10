@@ -1,4 +1,6 @@
 # express-log-errors
+[Contribute](./CONTRIBUTE.md) | [Changelog](./CHANGELOG.md) | [License](./LICENSE)
+
 ExpressJS middleware for logging errors from route operations.
 
 ## Install
@@ -25,3 +27,9 @@ app.listen(3000);
 |---|---|
 | path | `'./logs'` |
 | logName | `'errors.log'` |
+
+## Maintainer
+* [Brian Emilius](https://github.com/BrianEmilius)
+
+## Contributors
+*
