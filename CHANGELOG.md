@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 none
 
+## [0.1.1] - 2018-11-10
+### Changed
+* Internal file structure has been moved around for a more structured project.
+
 ## [0.1.0] - 2018-11-10
 ### Added
 * This changelog for a better overview of the project
