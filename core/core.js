@@ -16,6 +16,6 @@ module.exports = function (options = {
 			const data = `[${new Date().toISOString()}]\t${err}\r\n${oldLog}`;
 			fs.writeFileSync(fullPath, data, { 'flag': 'w' });
 		}
-		next();
+		next(err);
 	}
 };
