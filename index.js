@@ -1,1 +1,3 @@
-require('./core/core')();
+module.exports = function () {
+	require('./core/core');
+};
