@@ -15,7 +15,7 @@ app.get('/test', (req, res, next) => {
 	next(new Error('Test error message'));
 });
 
-app.use(logErrors({}));
+app.use(logErrors());
 
 app.listen(3000);
 ```
