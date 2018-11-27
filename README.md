@@ -25,8 +25,7 @@ app.listen(3000);
 ## Options
 | Option | Default setting | 
 |---|---|
-| path | `'./logs'` |
-| logName | `'errors.log'` |
+| logName | `'express-errors.log'` |
 
 ## Maintainer
 * [Brian Emilius](https://github.com/BrianEmilius)

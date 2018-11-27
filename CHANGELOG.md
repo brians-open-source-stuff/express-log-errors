@@ -8,7 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Sanitize paths to prevent saving logs in dangerous places.
 * Support for deeper log paths (currently, the log path can only be one directory deep).
 
-## [2.0.0] - 2018-11-27
+## [2.0.1](2.0.1) - 2018-11-27
+### Changed
+* We've updated the documentation in README.md to match the changed made to v2.0.0
+
+## [2.0.0](2.0.0) - 2018-11-27
 ### Changed
 * `logErrors` parameter list has been changed. You can now only define a name for the log file. See documentation.
 
@@ -34,3 +38,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 * This changelog for a better overview of the project
 * Contribution guidelines
+
+[2.0.1]: https://github.com/BrianEmilius/express-log-errors/releases/tag/v2.0.1
+[2.0.0]: https://github.com/BrianEmilius/express-log-errors/releases/tag/v2.0.0
