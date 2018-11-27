@@ -5,7 +5,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-none
+* Sanitize paths to prevent saving logs in dangerous places.
+* Support for deeper log paths (currently, the log path can only be one directory deep).
+
+## [1.1.1] - 2018-11-27
+### Added
+* Secret easter-egg
+* Plans for future version regarding
+	* Sanitized paths (security)
+	* Posibility of defining deep log paths
 
 ## [1.1.0] - 2018-11-12
 ### Changed
