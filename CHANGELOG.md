@@ -8,6 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Sanitize paths to prevent saving logs in dangerous places.
 * Support for deeper log paths (currently, the log path can only be one directory deep).
 
+## [2.0.0] - 2018-11-27
+### Changed
+* `logErrors` parameter list has been changed. You can now only define a name for the log file. See documentation.
+
+### Removed
+* Options parameter: You can no longer define options for logErrors in an object literal. Instead, use `logname`. See documentation.
+
 ## [1.1.1] - 2018-11-27
 ### Added
 * Secret easter-egg
