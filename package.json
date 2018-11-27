@@ -1,6 +1,6 @@
 {
   "name": "express-log-errors",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "express middleware for logging errors from routes",
   "keywords": [
     "expressjs",
