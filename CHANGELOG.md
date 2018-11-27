@@ -4,15 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased](unreleased)
+## [Unreleased]
 * Sanitize paths to prevent saving logs in dangerous places.
 * Support for deeper log paths (currently, the log path can only be one directory deep).
 
-## [2.0.1](2.0.1) - 2018-11-27
+## [2.0.1] - 2018-11-27
 ### Changed
 * We've updated the documentation in README.md to match the changed made to v2.0.0
 
-## [2.0.0](2.0.0) - 2018-11-27
+## [2.0.0] - 2018-11-27
 ### Changed
 * `logErrors` parameter list has been changed. You can now only define a name for the log file. See documentation.
 
@@ -39,6 +39,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * This changelog for a better overview of the project
 * Contribution guidelines
 
-[unreleased]: https://github.com/BrianEmilius/express-log-errors/compare/v2.0.1...HEAD
+[Unreleased]: https://github.com/BrianEmilius/express-log-errors/compare/v2.0.1...HEAD
 [2.0.1]: https://github.com/BrianEmilius/express-log-errors/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/BrianEmilius/express-log-errors/compare/v1.1.1...v2.0.0
