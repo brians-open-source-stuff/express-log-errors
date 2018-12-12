@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Sanitize paths to prevent saving logs in dangerous places.
 * Support for deeper log paths (currently, the log path can only be one directory deep).
 
+## [2.0.2] - 2018-12-12
+### Changed
+* Ownership of this project has been transferred to [an organization](https://github.com/brians-open-source-stuff) in order to ease maintenance. 
+
 ## [2.0.1] - 2018-11-27
 ### Changed
 * We've updated the documentation in README.md to match the changed made to v2.0.0
@@ -39,6 +43,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * This changelog for a better overview of the project
 * Contribution guidelines
 
-[Unreleased]: https://github.com/BrianEmilius/express-log-errors/compare/v2.0.1...HEAD
+[Unreleased]: https://github.com/BrianEmilius/express-log-errors/compare/v2.0.2...HEAD
+[2.0.2]: https://github.com/BrianEmilius/express-log-errors/compare/v2.0.1...v2.0.2
 [2.0.1]: https://github.com/BrianEmilius/express-log-errors/compare/v2.0.0...v2.0.1
 [2.0.0]: https://github.com/BrianEmilius/express-log-errors/compare/{1day}...v2.0.0

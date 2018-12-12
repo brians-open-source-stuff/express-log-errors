@@ -22,11 +22,6 @@ app.use(logErrors());
 app.listen(3000);
 ```
 
-## Options
-| Option | Default setting | 
-|---|---|
-| logName | `'express-errors.log'` |
-
 ## Maintainer
 * [Brian Emilius](https://github.com/BrianEmilius)
 
