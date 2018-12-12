@@ -43,7 +43,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * This changelog for a better overview of the project
 * Contribution guidelines
 
-[Unreleased]: https://github.com/BrianEmilius/express-log-errors/compare/v2.0.2...HEAD
-[2.0.2]: https://github.com/BrianEmilius/express-log-errors/compare/v2.0.1...v2.0.2
-[2.0.1]: https://github.com/BrianEmilius/express-log-errors/compare/v2.0.0...v2.0.1
-[2.0.0]: https://github.com/BrianEmilius/express-log-errors/compare/{1day}...v2.0.0
+[Unreleased]: https://github.com/brians-open-source-stuff/express-log-errors/compare/v2.0.2...HEAD
+[2.0.2]: https://github.com/brians-open-source-stuff/express-log-errors/compare/v2.0.1...v2.0.2
+[2.0.1]: https://github.com/brians-open-source-stuff/express-log-errors/compare/v2.0.0...v2.0.1
+[2.0.0]: https://github.com/brians-open-source-stuff/express-log-errors/compare/{1day}...v2.0.0
